@@ -1,5 +1,11 @@
-### Hi there 🚀
+### Hi there 👋
 
+Bienvenue dans mon bac à sable ! 
+
+· 💻 Étudiante en 2ème année de développement web 
+· 🚀 Objectif : devenir ingénieure informatique !
+· 🪐 Passionnée de web design et de planètes (🤔)
+· ✨ JavaScript | React | Electron
 <!--
 **ElisaDESOUSA/ElisaDESOUSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
