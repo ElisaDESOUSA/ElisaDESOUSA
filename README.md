@@ -6,7 +6,6 @@ Bienvenue dans mon bac à sable !
 - 🚀 Objectif : devenir ingénieure informatique !
 - ✨ JavaScript | React
 - 🪐 Passionnée de web design et de planètes (🤔)
-- 🎮 Dragon Quest | Pokémon
 <!--
 **ElisaDESOUSA/ElisaDESOUSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
