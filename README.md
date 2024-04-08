@@ -2,8 +2,8 @@
 
 Bienvenue dans mon bac à sable ! 
 
-- 💻 Étudiante en 2ème année de développement web 
-- 🚀 Objectif : devenir ingénieure informatique !
+- 💻 Étudiante en 3ème année de desgin graphique 
+- 🚀 Objectif : Direction artistique
 - ✨ JavaScript | React
 - 🪐 Passionnée de web design et de planètes (🤔)
 <!--
